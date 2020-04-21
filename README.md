@@ -2,10 +2,9 @@
 
 ### Vue + vuetify application using the cat api
 
-`https://thecatapi.com/`
-
 You can replace `"DEMO-API-KEY"` in **RandomCat** and
-**CatsGallery** views
+**CatsGallery** views with your own generated key from
+[https://thecatapi.com/]
 
 ## Project setup
 
